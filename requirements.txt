@@ -1,0 +1,4 @@
+bokeh==2.0.1
+holoviews==1.13.2
+numpy==1.18.1
+scipy==1.4.1
